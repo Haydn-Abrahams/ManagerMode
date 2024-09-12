@@ -1,0 +1,24 @@
+============================
+Club: Aston Villa
+Manager Name: Unai
+Manager Surname: Emery
+Financial Takeover?: false
+Pre-Season Tournament: true
+=============================
+Club: Manchester United
+Manager Name: Erik
+Manager Surname: TenHag
+Financial Takeover?: true
+Pre-Season Tournament: true
+========================================================
+Club: Manchester United
+Manager Name: HAROLD
+Manager Surname: KUMAR
+Financial Takeover?: true
+Pre-Season Tournament: true
+============================
+Club: Crystal Palace
+Manager Name: Olivier
+Manager Surname: Glasner
+Financial Takeover?: false
+Pre-Season Tournament: true
